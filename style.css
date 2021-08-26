@@ -1,0 +1,89 @@
+body{
+    margin:0 auto;
+}
+
+.header-section{
+    display: flex;
+    width:100%;
+  
+    margin-top: 15px;
+
+
+}
+.left{
+   width:20%;
+   padding-left: 50px;
+
+}
+.middle{
+    width:60%;
+    margin-left: 50px;
+}
+.middle img{
+    margin-left: 100px;
+    height:180px;
+}
+.h2One{
+    margin-left: 100px;
+}
+.h2Two{
+    margin-left: 180px;
+}
+.right{
+    width:20%;
+    margin-right:50px;
+}
+.right img{
+    height:220px;
+}
+.down-h2{
+    padding-left:40px;
+}
+.student-details-container{
+   display: flex;
+}
+.student-left{
+    width:50%;
+    margin-left: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.session{
+  padding-left: 50px;
+}
+.student-right{
+    width:50%;
+ margin-right: 80px;
+    text-align: end;
+}
+.studentName{
+    margin-left: 40px;
+  display: flex;
+    justify-content: space-between; 
+}
+.exam-pass{
+    margin-left:350px;
+}
+.hr{
+    border:2px solid gray;
+}
+.examinner{
+    margin-left: 30px;
+    
+}
+.exam-permission-container{
+    margin-top: 100px;
+}
+
+.details{
+    margin-left: 30px;
+}
+.result-details{
+    display: flex;
+}
+.signature{
+ margin-left: 800px;
+}
+.space{
+    padding:35px
+}
