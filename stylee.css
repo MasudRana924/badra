@@ -1,0 +1,257 @@
+ body{
+            margin:0 auto;
+        }
+        .header-container{
+            height:400px;
+        }
+        .header-section{
+            width:100%;
+            margin-top:15px;
+        }
+        .left-side{
+            float: left;
+            width:20%;
+        }
+        .left-side h2{
+            padding-left:40px;
+        }
+        .right-side{
+            width:80%;
+            float:right;
+        }
+        .middle{
+            width:60%;
+            float:left; 
+            padding-left:100px;
+        }
+        .k-number{
+            padding-left: 40px;
+        }
+        .hOne{
+            display:block;
+            font-size: 30px;
+        }
+        .hTwo{
+            padding-left: 150px;
+            display:block;
+            font-size: 24px;
+        }
+        
+        .middle img{
+            height:300px;
+            padding-left: 150px;
+        }
+        .right{
+            width:20%;
+            float:right;
+        }
+        .right img{
+            height:200px;
+            padding-right: 40px;
+        }
+        .ba-bf-bsc{
+          padding-left: 40px;
+          font-size: 28px;
+        
+        }
+        .student-details{
+            margin-top:20px;
+        }
+.student-details-container{
+    width:100%;
+
+    height:50px;
+  
+} 
+.student-left{
+    width:55%;
+    float:left;
+ 
+} 
+.student-right{
+    width:45%;
+    float: right;
+
+}     
+.exam-name{
+    font-size:24px ;
+    padding-left: 35px;
+} 
+.semester{ 
+    font-size:24px ;
+   padding-left: 200px;
+    
+}
+.student-container{
+    width:100%;
+ 
+    height:50px;
+    margin-top: 15px;
+}
+.admission-container{
+    width:60%;
+  
+}
+.admission-roll{
+    width:49%;
+  
+    float:left;
+
+}
+.roll{
+    font-size:24px;
+    padding-left: 35px;
+}
+.session{
+    width:50%;
+ 
+    float:right;
+}
+#session{
+    font-size:24px;
+    padding-left: 30px;
+}
+.student-registration-container{
+    margin-top: 15px;
+    height:50px;
+    width:100%;
+}
+.registration-conatiner{
+    
+    width:60%;
+    float:left;
+}
+.registration{
+    padding-left: 35px;
+    width:45%;
+    float:left;
+    font-size: 24px;
+}
+.sessiontwo{
+    width:50%;
+    float:right;
+    font-size: 24px;
+}
+.semester-right{
+    width:40%;
+    float:right;
+    font-size: 24px;
+
+}
+.exam-semester{
+    padding-left:150px;
+}
+.student-name-container{
+    height:40px;
+    width:100%;
+    margin-top:10px;
+}
+.student-name{
+    text-align: start;
+    padding-left:35px;
+}
+.fullname{
+    font-size: 24px;
+}
+.exampass-sub{
+   
+        padding-left: 300px;
+        font-size: 28px; 
+}
+.semester-2{
+padding-left: 150px;
+font-size:20px;
+}
+.exam-name2{
+    font-size:20px ;
+    padding-left: 35px;
+} 
+.examinner{
+    display: block;
+    padding-left:35px;
+    font-size: 24px;
+}
+.clearence-container{
+ margin-top: 20px;
+}
+.obidient{
+    margin-top: 20px;
+}
+.notice{
+    margin-top: 20px;
+}
+.student-registration-container{
+    margin-top: 15px;
+    height:50px;
+    width:100%;
+    height:250px;
+}
+.registration-conatiner2{
+    
+    width:65%;
+    float:left;
+}
+.registration2{
+    padding-left: 35px;
+    width:49%;
+    float:left;
+    font-size: 20px;
+}
+.session3{
+    width:47%;
+    float:right;
+    font-size: 20px;
+}
+.semester-right2{
+    width:35%;
+    float:right;
+    font-size: 20px;
+
+}
+.exam-semester2{
+    padding-left:50px;
+}
+.block-display{
+    display: block;
+}
+.signature{
+    padding-left: 45px;
+}
+.registrationlast{
+ 
+    padding-left: 35px;
+    width:49%;
+    float:left;
+    font-size: 20px;
+  
+}
+.dept-signature{
+    margin-top: 30px;
+}
+.head-signature{
+    
+    display: block;
+    padding-left:900px;
+    font-size: 24px;
+}
+.student-address{
+    margin-top: 80px;
+}
+.space{
+    padding:45px;
+    font-size: 24px;
+}
+.examinner2{
+ 
+    padding-left:35px;
+    font-size: 24px;
+}
+.studentsign{
+    margin-top: 20px;
+}
+.hall-signature{
+    
+    display: block;
+    padding-left:950px;
+    font-size: 24px;
+}
