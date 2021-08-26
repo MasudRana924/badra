@@ -17,10 +17,10 @@ body{
 }
 .middle{
     width:60%;
-    margin-left: 50px;
+
 }
 .middle img{
-    margin-left: 100px;
+   padding-left: 150px;
     height:180px;
 }
 .h2One{
@@ -31,10 +31,11 @@ body{
 }
 .right{
     width:20%;
-    margin-right:50px;
+   
 }
 .right img{
     height:220px;
+    
 }
 .down-h2{
     padding-left:40px;
@@ -81,9 +82,7 @@ body{
 .result-details{
     display: flex;
 }
-.signature{
- margin-left: 800px;
-}
+
 .space{
     padding:35px
 }
